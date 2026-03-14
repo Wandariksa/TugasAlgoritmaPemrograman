@@ -1,9 +1,9 @@
 # TugasAlgoritmaPemrograman
 # Bangun Ruang
 
-import java.util.Scanner;
+        import java.util.Scanner;
 
-public class HitungBangunRuang {
+        public class HitungBangunRuang {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int pilihan;
