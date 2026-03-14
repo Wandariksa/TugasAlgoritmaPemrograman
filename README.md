@@ -67,3 +67,5 @@
 
 break; statement : pernyataan break digunakan untuk 
    - case 3
+
+# menampilkan hasil
