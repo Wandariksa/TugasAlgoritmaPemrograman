@@ -52,5 +52,18 @@
 
         scanner.close();
     }
- }
 
+
+ 
+# Penjelasan
+
+1. Menu Utama: Program menampilkan menu pilihan (1-4) untuk memilih bangun ruang atau keluar dari program.
+2. Input Pengguna: Pengguna memasukkan pilihan angka.
+3. Percabangan (switch case) :
+   - case 1 (kubus) : pengguna diminta memasukkan panjang sisi. program kemudian menghitung volume (sisi x sisi x sisi) dan menampiklannya.
+   - case 2 (balok) : pengguna diminta memasukkan panjang dan lebar. program lalu menghitung volume (panjang x Lebar x tinggi) dan menampilkannya
+   - case 3 (tabung) : pengguna diminta memasukkan jari-jari dan tinggi tabung. program kemudian menghitung volume dan menampilkannya
+   - case 4 (keluar) menunjukkan akhir dari eksekusi program tersebut.
+
+break; statement : pernyataan break digunakan untuk 
+   - case 3
